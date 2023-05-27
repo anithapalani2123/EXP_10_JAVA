@@ -1,4 +1,4 @@
-# EXP_10_JAVA
+
 ## EXP-10 -> DATA MEMBERS IN CLASS
 ## AIM:
 To Write a Java program to create a class.
